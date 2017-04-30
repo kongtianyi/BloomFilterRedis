@@ -5,6 +5,8 @@
 * BloomFilterRedis:使用Redis的Bitmap作为位数组构建起来的可扩展的布隆过滤器，位数组的默认长度为2^23，哈希函数默认为八个。
 * orange：Scrapy工程，以“橘子水”为出发点的爬取百度百科的爬虫，配置了基于BloomFilterRedis的过滤器。
 
+关于Bitmap以及其它介绍详见我的博文[基于Redis的布隆过滤器的实现](http://blog.csdn.net/qq_30242609/article/details/71024458)
+
 关于
 
 ## 开发环境
