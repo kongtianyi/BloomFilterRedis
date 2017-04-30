@@ -7,8 +7,6 @@
 
 关于Bitmap以及其它介绍详见我的博文[基于Redis的布隆过滤器的实现](http://blog.csdn.net/qq_30242609/article/details/71024458)
 
-关于
-
 ## 开发环境
 
 * python 2.7.12
